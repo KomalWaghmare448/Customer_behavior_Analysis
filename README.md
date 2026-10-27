@@ -2,7 +2,7 @@
 Data analytics project showcasing customer beahavior using python,SQL,power Bi.
 
 #Power Bi Dashboard
-![Cust_behavior_dashboard](Dashboard.png)
+(Dashboard.png)
 
 #Tools Used
 -Pyton
